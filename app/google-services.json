@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "541554074243",
+    "firebase_url": "https://push-notification-c565a.firebaseio.com",
+    "project_id": "push-notification-c565a",
+    "storage_bucket": "push-notification-c565a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541554074243:android:3f1080d53a82b975",
+        "android_client_info": {
+          "package_name": "com.kangkan.developer.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541554074243-0ofhqp6poi4tljib1bjq9mpi2htcedc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kangkan.developer.fcm",
+            "certificate_hash": "e01454c47537991429899b77d604aa1e6545a3f6"
+          }
+        },
+        {
+          "client_id": "541554074243-cfd2qd8b1bheueu6amjk0rhb0g7k0sgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtLD8cx3xfnyHg_BYM3sj0uQUO4SDaKxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541554074243-cfd2qd8b1bheueu6amjk0rhb0g7k0sgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541554074243:android:b964230f4ce3e6bab631b6",
+        "android_client_info": {
+          "package_name": "kangkan.developer.firebase_clude_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541554074243-cfd2qd8b1bheueu6amjk0rhb0g7k0sgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtLD8cx3xfnyHg_BYM3sj0uQUO4SDaKxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541554074243-cfd2qd8b1bheueu6amjk0rhb0g7k0sgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541554074243:android:e521a884cdbb29c8",
+        "android_client_info": {
+          "package_name": "kangkan.developer.onesignalpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541554074243-cfd2qd8b1bheueu6amjk0rhb0g7k0sgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtLD8cx3xfnyHg_BYM3sj0uQUO4SDaKxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541554074243-cfd2qd8b1bheueu6amjk0rhb0g7k0sgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541554074243:android:259cb9aec3cdd8d2",
+        "android_client_info": {
+          "package_name": "kangkan.developer.resultprocessingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541554074243-cfd2qd8b1bheueu6amjk0rhb0g7k0sgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtLD8cx3xfnyHg_BYM3sj0uQUO4SDaKxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541554074243-cfd2qd8b1bheueu6amjk0rhb0g7k0sgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
